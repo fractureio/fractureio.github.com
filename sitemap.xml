@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://fractureio.net/about.html</loc>
+        <lastmod>2012-02-03T22:40:45+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fractureio.net/blog/archives/</loc>
+        <lastmod>2012-02-03T21:34:19+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fractureio.net/concepts.html</loc>
+        <lastmod>2012-02-03T21:41:28+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fractureio.net/</loc>
+        <lastmod>2012-02-03T21:34:19+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://fractureio.net/status.html</loc>
+        <lastmod>2012-02-04T19:34:02+00:00</lastmod>
+    </url>
+</urlset>
