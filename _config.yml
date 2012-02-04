@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://fractureio.net
-title: Fracture I/O
+title:
 subtitle: News and insights into the fracture I/O agent library.
 author: Fracture I/O Authors
 simple_search: http://google.com/search
-description: News and insights into the fracture I/O agent library.
+description: News and insights into the fracture I/O library.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
